@@ -1,5 +1,5 @@
 body {
-  background-image: url("../images/fantasyStoriesNewImage.jpg");
+  background-image: url("../images/fantasyStoriesNewImage.png");
   background-repeat: no-repeat;
   background-size: cover;
   background-attachment: fixed;
@@ -233,3 +233,4 @@ article {
   opacity: 0.7;
 
 }
+
